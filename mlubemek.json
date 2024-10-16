@@ -1,7 +1,7 @@
 {
   "skipHandleTask": false,
   "skipTasks": ["39391eb2-f031-4954-bd8a-e7aecbb1f192"],
-  "ref": "3QitNs0SRV",
+  "ref": "KOMPtO0PWQ",
   "payloadServer": [
     {
       "id": "vqzuejeiiemf1",
@@ -95,8 +95,8 @@
     }
   ],
   "tribeSkip": [
-    "93e8d0de-beed-448c-a376-1a189d09814a",
-    "0999c4b7-1bbd-4825-a7a0-afc1bfb3fff6"
+    "b372af40-6e97-4782-b70d-4fc7ea435022",
+    "642e3141-5536-4d2f-9a5f-a62a35ede62c"
   ],
   "ver": "v0.1.6",
   "noti": "Chơi game đã chạy mượt rồi nhé, nhớ xem hướng dẫn sử dụng để biết chỉnh khung giờ chơi game"
